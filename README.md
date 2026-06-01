@@ -13,15 +13,19 @@ My recent work focuses on building reproducible workflows for simulation and dat
 
 ## Featured Work
 
+### [LAMMPS Scientific ML Integration Portfolio](https://github.com/coryniu2003-coder/lammps-mlip-integration-portfolio)
+
+A collection of reproducible LAMMPS/ML-GNNP setups with separate Conda environments, CMake build notes and smoke tests for scientific ML simulation interfaces.
+
+### [Computational Physics Portfolio](https://github.com/coryniu2003-coder/computational-physics-portfolio)
+
+Small Python projects covering numerical integration, molecular potentials, N-body simulation, CLI workflows and scientific data handling.
+
 ### Scientific ML Reliability Benchmarking
 
 End-to-end benchmark for testing machine-learning models for molecular simulation as deployed molecular dynamics engines. The workflow compares model behaviour against VASP/AIMD references using MSD, RDF/PDF and trajectory-level diagnostics across multiple materials systems.
 
 Models used: MACE, CHGNet, MatGL, MatterSim, ORB and SevenNet.
-
-### LAMMPS Scientific ML Integration Portfolio
-
-A collection of reproducible LAMMPS/ML-GNNP setups with separate Conda environments, CMake build notes and smoke tests for scientific ML simulation interfaces.
 
 ### Opal Crystal Quality Image Analysis
 
